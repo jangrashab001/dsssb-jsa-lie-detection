@@ -1,0 +1,14 @@
+GITHUB PAGES QUICK SETUP — AUTO RANDOM v4
+
+1. Extract the ZIP.
+2. Create/open your GitHub repository.
+3. Upload ALL extracted files to the repository ROOT.
+4. Make sure index.html is directly visible in the repository root.
+5. Commit to main.
+6. Repository > Settings > Pages.
+7. Source: Deploy from a branch.
+8. Branch: main. Folder: /(root). Save.
+9. Wait for deployment and open the displayed Pages URL.
+10. The live site will automatically start a new random balanced 100-question mock on every full page load/refresh.
+
+For detailed troubleshooting and update instructions, open GITHUB_SETUP_COMPLETE.md.

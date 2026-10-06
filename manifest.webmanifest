@@ -1,0 +1,9 @@
+{
+  "name": "DSSSB JSA Lie-Detection Mock Test",
+  "short_name": "DSSSB Lie Test",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#172c45",
+  "icons": []
+}

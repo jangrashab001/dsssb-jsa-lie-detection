@@ -1,0 +1,9 @@
+{
+  "questionCount": 3000,
+  "allHaveHindiQuestion": true,
+  "allHave4HindiOptions": true,
+  "allHaveHindiExplanation": true,
+  "allCorrectIndexValid": true,
+  "uniqueIds": true,
+  "schemaVersion": "5.0-bilingual"
+}

@@ -1,0 +1,32 @@
+{
+  "questionCount": 3000,
+  "uniqueIds": 3000,
+  "uniqueQuestionText": 1800,
+  "uniqueCompleteItems": 3000,
+  "sectionCounts": {
+    "S1": 300,
+    "S2": 300,
+    "S3": 300,
+    "S4": 300,
+    "S5": 300,
+    "S6": 300,
+    "S7": 300,
+    "S8": 300,
+    "S9": 300,
+    "S10": 300
+  },
+  "difficultyCounts": {
+    "Easy": 500,
+    "Medium": 1300,
+    "Hard": 1200
+  },
+  "templateCounts": {
+    "definition-to-term": 600,
+    "term-to-definition": 600,
+    "correct-match": 600,
+    "incorrect-match": 600,
+    "subtopic-classification": 600
+  },
+  "mockCount": 30,
+  "allQuestionsUsedExactlyOnceAcrossFixedMocks": true
+}
